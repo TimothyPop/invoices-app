@@ -1,1 +1,1 @@
-This project was created as a learning exercise with Django. It allows you to generate and send service invoices by email, all within the app.
+This project was created as a learning exercise with Django. It allows you to generate service invoices and send them to the relevant parties by email.
